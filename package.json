@@ -1,6 +1,6 @@
 {
   "name": "news-website",
-  "main": "script.js",
+  "default": "script.js",
   "scripts": {
     "start": "node server.js",
     "build": "webpack --mode production"
